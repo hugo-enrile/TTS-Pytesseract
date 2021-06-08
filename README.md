@@ -12,7 +12,6 @@ To do this, it is necessary to use the Pytesseract library, which allows to proc
 
 It includes the functionality of being able to capture through the webcam an image with text and interpret the displayed text.
 
-Translated with www.DeepL.com/Translator (free version)
 
 # TO-DO
 
